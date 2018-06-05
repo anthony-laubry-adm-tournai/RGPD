@@ -9,15 +9,15 @@ Mise en place :
   4) Configurer les droit du répertoire de l'application dans wwwroot (Tout le monde => controle total, IIS_IUSRS => controle total)
   5) Dans le fichier web.config de l'application :
      ---------------------------------------------
-      <add key="domainName" value="xxxxx.xx"/>
+      < add key="domainName" value="xxxxx.xx"/ >
         => remplacer xxxxx.xx par votreNomDeDomaine.be
       
-      <setting name="AdresseSrv" serializeAs="String">
+      < setting name="AdresseSrv" serializeAs="String" >
         <value>xxx.xxx.xxx.xxx</value>      
-      </setting>
+      < /setting >
         => remplacer xxx.xxx.xxx.xxx par l'adresse/nom de votre serveur qui heberge l'application
      
-      <setting name="PortSrv" serializeAs="String">
+      < setting name="PortSrv" serializeAs="String" >
         <value>xxxxx</value>
-      </setting>
+      < /setting >
          => remplacer xxxxx par le port d'écoute de votre serveur.
