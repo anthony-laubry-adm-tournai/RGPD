@@ -31,3 +31,7 @@ Mise en place :
       et en modification).
       Identifiant  : administrateur
       mot de passe : Ww9,?hF7
+      
+      
+      
+EDIT : L'application est sujette à des mises à jours de nouveau contenu dans les prochains voir semaines
