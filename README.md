@@ -15,7 +15,7 @@ Mise en place :
   8) Configurer les droits du répertoire de l'application dans wwwroot (Tout le monde => controle total, IIS_IUSRS => controle total).
   9) Ajouter le repertoire "Fichier" dans la racine de l'application.
   10) Dans le fichier web.config de l'application :
-     ---------------------------------------------
+      ---------------------------------------------
    
       < add key="domainName" value="xxxxx.xx"/ >
         => remplacer xxxxx.xx par votreNomDeDomaine.be ou adresse IP du controleur de domaine.
