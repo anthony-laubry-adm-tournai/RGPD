@@ -7,6 +7,7 @@ Mise en place :
   2) Installation d'un SQL server Express (ou non).
   3) Sous Sql server créé la base de données et les tables avec les scripts .sql qui se trouvent dans le repertoire "table_base".
   4) Ajouter les données de la table Glossaire et Mesure avec les scripts : dbo.Glossaire.data.sql et dbo.Mesure.data.sql
+  5) Ajouter les données du script dbo.Role.data.sql et dbo.RoleUtilisateur.data.sql
   5) Ne pas oublier de donner les droits en INSERT,SELECT,DELETE et UPDATE (clic droit sur la base de donnée => properties => permission)
       (idem pour la procédure stockée).
   6) Ajouter le projet dans un site IIS.
