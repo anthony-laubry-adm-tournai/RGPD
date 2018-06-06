@@ -27,3 +27,7 @@ Mise en place :
         <value>xxxxx</value>
       < /setting >
          => remplacer xxxxx par le port d'écoute de votre serveur.
+  10) Pour la connexion locale, il faut se connecter en Administrateur. Ce qui donne la possibilité de gérer, uniquement, les utilisateurs       (en ajout, en modification et en suppression), les services (en ajout, en modification, en suppression) et les glossaires (en ajout 
+      et en modification).
+      Identifiant  : administrateur
+      mot de passe : Ww9,?hF7
