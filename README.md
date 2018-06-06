@@ -13,10 +13,7 @@ Mise en place :
   7) Ajouter le repertoire "Fichier" dans la racine de l'application.
   8) Dans le fichier web.config de l'application :
      ---------------------------------------------
-     < setting name="TDESKey" serializeAs="String" >
-        <value>AlphaScorpii</value>
-      < /setting>
-         => Clef de cryptage du mot de passe pour la connexion locale./!\ Si cette clef est changée, elle doit l'être avant la première                   définition d'un utilisateur et ne peut plus être changée par la suite !
+   
       < add key="domainName" value="xxxxx.xx"/ >
         => remplacer xxxxx.xx par votreNomDeDomaine.be
       
