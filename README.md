@@ -34,4 +34,4 @@ Mise en place :
       
       
       
-EDIT : L'application est sujette à des mises à jours de nouveau contenu dans les prochains voir semaines
+EDIT : L'application est sujette à des mises à jours de nouveau contenu dans les prochains jours voir semaines
