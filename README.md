@@ -5,7 +5,7 @@ Mise en place :
 
   1) Installation du serveur IIS
   2) Installation d'un SQL server Express (ou non)
-  3) Sous Sql server créé la base de données et les tables avec les scripts .sql
+  3) Sous Sql server créé la base de données et les tables avec les scripts .sql qui se trouvent dans le repertoire "table_base".
   4) Ne pas oublier de donner les droits en INSERT,SELECT,DELETE et UPDATE (clic droit sur la base de donnée => properties => permission)
       (idem pour la procédure stockée).
   5) Ajouter le projet dans un site IIS
