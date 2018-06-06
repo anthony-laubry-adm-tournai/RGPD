@@ -1,0 +1,156 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="trtCrea.master.vb" Inherits="RGPD.trtCrea" %>
+
+<%@ Import Namespace="RGPD" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><%: Page.Title %></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        #LabelTitre{
+            color:#091C69; 
+        }
+        #lbAcceuil,#Deconnexion,#lbAgent{
+            padding:15px;
+            color:white;
+            font-weight:bold;
+            text-decoration: none;
+        }
+        #lbAcceuil:hover,#Deconnexion:hover{
+            color:#091C69;
+            font-weight:bold;
+            background-color:white;
+        }
+        #lbAgent{
+            width:500px;
+            color:white;
+        }
+        #TableNav{
+            background-color:#091C69;
+            padding:5px;
+        }
+        #conteneur{
+         height: 100px;
+         width: 600px;
+         margin: auto;
+        }
+        #image{
+         height: 80px;
+         width: 80px;
+         position: relative;
+         float: left;
+        }
+        #titre{
+         height: 50px;
+         width: 500px;
+         position: relative;
+         float: left;
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <script type="text/javascript">
+            <%
+            If Not String.IsNullOrEmpty(Session("Action")) Then
+                If Session("Action").ToString.Equals("AjoutTrt") Then
+            %>
+                window.onload = function () { alert('Ajout correctement effectué.'); };
+            <%
+        ElseIf Session("Action").ToString.Equals("ModifTrt") Then
+             %>
+            window.onload = function () { alert('Modification correctement effectuée.'); };
+            <%
+        End If
+    End If
+        Session("Action") = nothing
+            %>
+
+            <%
+            If Not String.IsNullOrEmpty(Session("MsrVide")) Then
+                If CBool(Session("MsrVide")) Then
+            %>
+            window.onload = function () { alert('Veuillez remplir les mesures.'); };
+            <%
+                    Session("MsrVide") = false
+                end if
+             End If
+            %>
+        </script>
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form runat="server">
+        <header>
+
+            <div id="conteneur">
+                <div id="image">
+                    <img src="img/logoMini.png" alt="Smiley face" height="80" width="80" />
+                </div>
+                <div id="titre">
+                    <h2><asp:Label ID="LabelTitre" runat="server" style="width:500px;" Text="Gestion du registre des traitements"></asp:Label></h2>
+                </div>
+            </div>           
+
+            <table id="TableNav" style="width:100%;">
+                <tr >
+                    <th style="width:20%; text-align:left; padding-left:5%">
+                        <asp:LinkButton ID="lbAcceuil" runat="server">Accueil</asp:LinkButton>
+                    </th>
+
+                    <th style="width:60%; text-align:left">
+                        <asp:Label runat="server" ID="lbAgent">
+                            <% 
+                                Dim tmp As String = String.Empty
+                                Select Case Agent.UnRole.Libelle.ToLower
+                                    Case "agent"
+                                        tmp = "Agent :" & Agent.DisplayName
+                                    Case "contact"
+                                        tmp = "Contact :" & Agent.DisplayName
+                                    Case "dpd"
+                                        tmp = "DPD :" & Agent.DisplayName
+                                End Select
+                                tmp &= "&nbsp;&nbsp;&nbsp;|| &nbsp;&nbsp; Service :" & DBRegistreTraitement.GetService(Agent.IdService).Libelle
+                                Page.Response.Write(tmp)
+                            %>              
+                        </asp:Label>
+                    </th>
+
+                    <th style="width:20%; text-align:left">
+                        <asp:LinkButton ID="Deconnexion" runat="server">Déconnexion</asp:LinkButton>
+                    </th>
+                </tr>
+            </table>
+
+        </header>
+
+        <div id="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderBody" runat="server">
+            </asp:ContentPlaceHolder>
+            <script>
+                var acc = document.getElementsByClassName("accordion");
+                var i;
+
+                for (i = 0; i < acc.length; i++) {
+                    acc[i].addEventListener("click", function () {
+                        this.classList.toggle("active");
+                        var panel = this.nextElementSibling;
+                        if (panel.style.display === "block") {
+                            panel.style.display = "none";
+                        } else {
+                            panel.style.display = "block";
+                        }
+                    });
+                }
+            </script>
+        </div>
+
+        <%--<footer>
+            &copy;<%: DateTime.Now.Year %> - Administration Communal de la Ville de Tournai - C.P.A.S. de Tournai
+        </footer>--%>
+    </form>
+</body>
+</html>

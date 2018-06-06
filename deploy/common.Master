@@ -1,0 +1,239 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="common.master.vb" Inherits="RGPD.common" %>
+
+<%@ Import Namespace="RGPD" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    <title><%: Page.Title %></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+        #LabelTitre{
+            color:#091C69; 
+        }
+        #lbAcceuil,#Deconnexion,#lbAgent{
+            padding:15px;
+            color:white;
+            font-weight:bold;
+            text-decoration: none;
+        }
+        #lbAcceuil:hover,#Deconnexion:hover{
+            color:#091C69;
+            font-weight:bold;
+            background-color:white;
+        }
+        #lbAgent{
+            width:500px;
+            color:white;
+        }
+        #TableNav{
+            background-color:#091C69;
+            padding:5px;
+        }
+        #conteneur{
+         height: 100px;
+         width: 600px;
+         margin: auto;
+        }
+        #image{
+         height: 80px;
+         width: 80px;
+         position: relative;
+         float: left;
+        }
+        #titre{
+         height: 50px;
+         width: 500px;
+         position: relative;
+         float: left;
+        }
+    </style>
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <script type="text/javascript">
+            <%
+            If Not String.IsNullOrEmpty(Session("Action")) Then
+                If Session("Action").ToString.Equals("AjoutTrt") Then
+            %>
+            window.onload = function () { alert('Ajout correctement effectué.'); };
+            <%
+        ElseIf Session("Action").ToString.Equals("ModifTrt") Then
+             %>
+            window.onload = function () { alert('Modification correctement effectuée.'); };
+            <%
+        End If
+    End If
+        Session("Action") = nothing
+            %>
+        </script>
+    </asp:ContentPlaceHolder>
+</head>
+
+<body style="overflow:hidden;">
+    <form runat="server">
+        <header>
+
+            <div id="conteneur">
+                <div id="image">
+                    <img src="img/logoMini.png" alt="Smiley face" height="80" width="80" />
+                </div>
+                <div id="titre">
+                    <h2><asp:Label ID="LabelTitre" runat="server" style="width:500px;" Text="Gestion du registre des traitements"></asp:Label></h2>
+                </div>
+            </div>           
+
+            <table id="TableNav" style="width:100%;">
+                <tr >
+                    <th style="width:20%; text-align:left; padding-left:5%">
+                        <asp:LinkButton ID="lbAcceuil" runat="server">Accueil</asp:LinkButton>
+                    </th>
+
+                    <th style="width:60%; text-align:left">
+                        <asp:Label runat="server" ID="lbAgent">
+                            <% 
+                                Dim tmp As String = String.Empty
+                                Select Case Agent.UnRole.Libelle.ToLower
+                                    Case "agent"
+                                        tmp = "Agent :" & Agent.DisplayName
+                                    Case "contact"
+                                        tmp = "Contact :" & Agent.DisplayName
+                                    Case "dpd"
+                                        tmp = "DPD :" & Agent.DisplayName
+                                    Case "super"
+                                        tmp = "Super Utilisateur :" & Agent.DisplayName
+                                End Select
+                                
+                                If Agent.IdService > 0 Then
+                                    Try
+                                        tmp &= "&nbsp;&nbsp;&nbsp;|| &nbsp;&nbsp; Service :" & DBRegistreTraitement.GetService(Agent.IdService).Libelle
+                                    Catch ex As Exception
+                                        tmp &= "&nbsp;&nbsp;&nbsp;|| &nbsp;&nbsp; Service :" & DBRegistreTraitement.GetService(Agent.IdService).Libelle
+                                    End Try
+                                End If
+                                                             
+                                Page.Response.Write(tmp)
+                            %>              
+                        </asp:Label>
+                    </th>
+
+                    <th style="width:20%; text-align:left">
+                        <asp:LinkButton ID="Deconnexion" runat="server">Déconnexion</asp:LinkButton>
+                    </th>
+                </tr>
+            </table>
+
+        </header>
+
+
+        <nav id="nav" style="vertical-align: top;">
+            <ul>     
+                <%
+                    If Agent.UnRole.Libelle.ToLower.Equals("agent") orelse Agent.UnRole.Libelle.ToLower.Equals("contact") orelse Agent.UnRole.Libelle.ToLower.Equals("dpd") Then
+                %>
+                    <li><asp:LinkButton ID="lbCreerTrt" runat="server">Créer traitement</asp:LinkButton></li>
+                <%
+                    end if
+                %>                     
+              
+                <%
+                    If Agent.UnRole.Libelle.ToLower.Equals("dpd")  Then
+                %>
+                <li class="accordion"><a id="defRole" href="LienUsrRole.aspx">Affecter rôle</a></li>
+                <li class="accordion"><a id='lbGestGloss'>Gestion du glossaire</a></li>
+                <li id="sousMenuConteneur" class="panel">
+                    <ul>
+                        <li id="sousMenu" class="accordion"><a id='lbAjoutGloss' href='GestionGlossaire.aspx'>Ajouter glossaire</a></li>
+                        <li id="sousMenu" class="accordion"><a id='lbModifierGloss' href='ModifGlossaire.aspx'>Modifier glossaire</a></li>
+                        <%-- <li class="accordion"><a id='lbSupprimerGloss' href='SupGlossaire.aspx'>Supprimer glossaire</a></li>--%>
+                    </ul>
+                </li>
+                <li class="accordion"><a id='lbStat'>Statistiques</a></li>
+                <li id="sousMenuConteneur" class="panel">
+                    <ul>
+                        <li id="sousMenu" class="accordion"><a id="lbStatGen" href="StatGen.aspx">Statistique général</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                   <a id="ExportPDF" href="ExportPDF.aspx">Exportation PDF</a>
+                </li>
+                <li class="accordion"><a id="activeDpd" href="ActiveTrtDpd.aspx">Traitement désactivé</a></li>
+                <%
+                ElseIf Agent.UnRole.Libelle.ToLower.Equals("contact") Then
+                    %>
+                <li class="accordion"><a id="activeCtc" href="ActiveTrtCtc.aspx">Traitement désactivé</a></li>
+                <li>
+                   <a id="ExportPDFCtc" href="ExportPDF.aspx">Exportation PDF</a>
+                </li>
+                <%
+                End If
+                %>
+                
+                <%
+                    If Agent.UnRole.Libelle.ToLower.Equals("super") Then                                            
+                %>
+                    <li class="accordion"><a id='lbGestGloss'>Gestion du glossaire</a></li>
+                    <li id="sousMenuConteneur" class="panel">
+                        <ul>
+                            <li id="sousMenu" class="accordion"><a id='lbAjoutGloss' href='GestionGlossaire.aspx'>Ajouter glossaire</a></li>
+                            <li id="sousMenu" class="accordion"><a id='lbModifierGloss' href='ModifGlossaire.aspx'>Modifier glossaire</a></li>
+                            <%-- <li class="accordion"><a id='lbSupprimerGloss' href='SupGlossaire.aspx'>Supprimer glossaire</a></li>--%>
+                        </ul>
+                    </li>
+                    <li class="accordion"><a id='lbGestUsr'>Gestion des utilisateurs</a></li>
+                    <li id="sousMenuConteneur" class="panel">
+                        <ul>
+                            <li id="sousMenu" class="accordion"><a id="lbAjUsr" href="AjUsr.aspx">Ajouter</a></li>
+                            <li id="sousMenu" class="accordion"><a id="lbAjUsr" href="ModUsr.aspx">Modifier</a></li>
+                            <li id="sousMenu" class="accordion"><a id="lbAjUsr" href="DelUsr.aspx">Supprimer</a></li>
+                        </ul>
+                    </li>
+                    <li class="accordion"><a id='lbGestUsr'>Gestion des Services</a></li>
+                    <li id="sousMenuConteneur" class="panel">
+                        <ul>
+                            <li id="sousMenu" class="accordion"><a id="lbAjServ" href="AjServ.aspx">Ajouter</a></li>
+                            <li id="sousMenu" class="accordion"><a id="lbAjServ" href="ModServ.aspx">Modifier</a></li>
+                            <li id="sousMenu" class="accordion"><a id="lbAjServ" href="DelServ.aspx">Supprimer</a></li>
+                        </ul>
+                    </li>
+                <%
+                    End if
+                %>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolderMenu" runat="server">
+                </asp:ContentPlaceHolder>
+            </ul>
+        </nav>
+
+        <div id="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderBody" runat="server">
+            </asp:ContentPlaceHolder>
+            <script>
+                var acc = document.getElementsByClassName("accordion");
+                var i;
+
+                for (i = 0; i < acc.length; i++) {
+                    acc[i].addEventListener("click", function () {
+                        this.classList.toggle("active");
+                        var panel = this.nextElementSibling;
+                        if (panel.style.display === "block") {
+                            panel.style.display = "none";
+                        } else {
+                            panel.style.display = "block";
+                        }
+                    });
+                }
+            </script>
+        </div>
+
+        <%--<footer>
+            &copy;<%: DateTime.Now.Year %> - Administration Communal de la Ville de Tournai - C.P.A.S. de Tournai
+        </footer>--%>
+    </form>
+</body>
+</html>
+

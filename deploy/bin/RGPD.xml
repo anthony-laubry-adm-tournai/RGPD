@@ -1,0 +1,5738 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RGPD
+</name>
+</assembly>
+<members>
+<member name="F:RGPD.AjServ.lbMsg">
+	<summary>
+Contrôle lbMsg.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjServ.lbLibServ">
+	<summary>
+Contrôle lbLibServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjServ.tbLibServ">
+	<summary>
+Contrôle tbLibServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjServ.btAjServ">
+	<summary>
+Contrôle btAjServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.trtCrea.head">
+	<summary>
+Contrôle head.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.trtCrea.LabelTitre">
+	<summary>
+Contrôle LabelTitre.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.trtCrea.lbAcceuil">
+	<summary>
+Contrôle lbAcceuil.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.trtCrea.lbAgent">
+	<summary>
+Contrôle lbAgent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.trtCrea.Deconnexion">
+	<summary>
+Contrôle Deconnexion.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.trtCrea.ContentPlaceHolderBody">
+	<summary>
+Contrôle ContentPlaceHolderBody.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.tbNomTrt">
+	<summary>
+Contrôle tbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbChkDonnePers">
+	<summary>
+Contrôle lbChkDonnePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbChkDonneSens">
+	<summary>
+Contrôle lbChkDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rDonneePers">
+	<summary>
+Contrôle rDonneePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rDonneSens">
+	<summary>
+Contrôle rDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbSDD">
+	<summary>
+Contrôle lbSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rSDD">
+	<summary>
+Contrôle rSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbPersCon">
+	<summary>
+Contrôle lbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.cmbPersCon">
+	<summary>
+Contrôle cmbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbDurCon">
+	<summary>
+Contrôle lbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.cmbDurCon">
+	<summary>
+Contrôle cmbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbLegit">
+	<summary>
+Contrôle lbLegit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.cmbLegitimation">
+	<summary>
+Contrôle cmbLegitimation.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbFinalite">
+	<summary>
+Contrôle lbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.cmbFinalite">
+	<summary>
+Contrôle cmbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbDonnExMAJ">
+	<summary>
+Contrôle lbDonnExMAJ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rbOui">
+	<summary>
+Contrôle rbOui.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rbNon">
+	<summary>
+Contrôle rbNon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.tbGesSousTrai">
+	<summary>
+Contrôle tbGesSousTrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbCommentaire">
+	<summary>
+Contrôle lbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rtbCommentaire">
+	<summary>
+Contrôle rtbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbComContact">
+	<summary>
+Contrôle lbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rtbComContact">
+	<summary>
+Contrôle rtbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbComDPD">
+	<summary>
+Contrôle lbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.rtbComDPD">
+	<summary>
+Contrôle rtbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbDateCrea">
+	<summary>
+Contrôle lbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.tbDateCrea">
+	<summary>
+Contrôle tbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbDateModif">
+	<summary>
+Contrôle lbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.tbDateModif">
+	<summary>
+Contrôle tbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbAgEncodeur">
+	<summary>
+Contrôle lbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.tbAgEncodeur">
+	<summary>
+Contrôle tbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbAgEval">
+	<summary>
+Contrôle lbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.tbAgEval">
+	<summary>
+Contrôle tbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.lbAgVali">
+	<summary>
+Contrôle lbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrt.tbAgVali">
+	<summary>
+Contrôle tbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.form1">
+	<summary>
+Contrôle form1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.lbCoordCollege">
+	<summary>
+Contrôle lbCoordCollege.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.lbCoordDPO">
+	<summary>
+Contrôle lbCoordDPO.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.LogonScreen">
+	<summary>
+Contrôle LogonScreen.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.txtNomUsr">
+	<summary>
+Contrôle txtNomUsr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.Label2">
+	<summary>
+Contrôle Label2.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.txtMdp">
+	<summary>
+Contrôle txtMdp.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.failAuth">
+	<summary>
+Contrôle failAuth.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.connection.btCnx">
+	<summary>
+Contrôle btCnx.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtModifNonDesire.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.rMenace">
+	<summary>
+Contrôle rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.rSource">
+	<summary>
+Contrôle rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtDisparitionDonnee.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtAccesIllegitime.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelUsr.lbInfo">
+	<summary>
+Contrôle lbInfo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelUsr.lbServ">
+	<summary>
+Contrôle lbServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelUsr.cmbServ">
+	<summary>
+Contrôle cmbServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelUsr.lbusr">
+	<summary>
+Contrôle lbusr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelUsr.cmbUsr">
+	<summary>
+Contrôle cmbUsr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelUsr.btdel">
+	<summary>
+Contrôle btdel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="M:RGPD.RegistreTraitement.RedirectPage(RGPD.Role)">
+	<summary>
+ Méthode de classe permettant de rediriger un personne vers sa bonne page.
+ </summary>
+	<param name="role"></param>
+	<remarks></remarks>
+</member><member name="T:RGPD.RegistreTraitement">
+	<summary>
+ Classe permettant de faire appel à des méthodes qui seraient appelée à plusieurs endroit.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:RGPD.SupGlossaire.lbTypeDonnee">
+	<summary>
+Contrôle lbTypeDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.SupGlossaire.cmbTypeDonnee">
+	<summary>
+Contrôle cmbTypeDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.SupGlossaire.tbGloss">
+	<summary>
+Contrôle tbGloss.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.SupGlossaire.btSup">
+	<summary>
+Contrôle btSup.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtDisparitionDonnee.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.rMenace">
+	<summary>
+Contrôle rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.rSource">
+	<summary>
+Contrôle rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.accesIllegitime.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ActiveTrtDpd.cmbService">
+	<summary>
+Contrôle cmbService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.btAjMesure">
+	<summary>
+Contrôle btAjMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.placeHolderMesure">
+	<summary>
+Contrôle placeHolderMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.lbAideSaisie">
+	<summary>
+Contrôle lbAideSaisie.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtMesureExistante.rListeMesure">
+	<summary>
+Contrôle rListeMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="P:RGPD.My.MyWebExtension.Computer">
+	<summary>
+ Retourne les informations relatives à l'ordinateur hôte.
+ </summary>
+</member><member name="P:RGPD.My.MyWebExtension.User">
+	<summary>
+ Retourne des informations pour l'utilisateur Web actuel.
+ </summary>
+</member><member name="P:RGPD.My.MyWebExtension.Request">
+	<summary>
+ Retourne l'objet Request.
+ </summary>
+</member><member name="P:RGPD.My.MyWebExtension.Response">
+	<summary>
+ Retourne l'objet Response.
+ </summary>
+</member><member name="P:RGPD.My.MyWebExtension.Log">
+	<summary>
+ Retourne l'objet de journal Asp.
+ </summary>
+</member><member name="T:RGPD.My.MyWebExtension">
+	<summary>
+ Module utilisé pour définir les propriétés qui sont disponibles dans My Namespace pour les projets Web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:RGPD.Contact.cmbFiltre">
+	<summary>
+Contrôle cmbFiltre.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.dpd.cmbFiltre">
+	<summary>
+Contrôle cmbFiltre.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.dpd.cmbService">
+	<summary>
+Contrôle cmbService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.rMenace">
+	<summary>
+Contrôle rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.rSource">
+	<summary>
+Contrôle rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifNonDesire.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModServ.lbInfo">
+	<summary>
+Contrôle lbInfo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModServ.lbAncLib">
+	<summary>
+Contrôle lbAncLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModServ.cmbAncLib">
+	<summary>
+Contrôle cmbAncLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModServ.lbNouvLib">
+	<summary>
+Contrôle lbNouvLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModServ.tbNouvLib">
+	<summary>
+Contrôle tbNouvLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModServ.btModServ">
+	<summary>
+Contrôle btModServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtMesureExistante.rListeMesure">
+	<summary>
+Contrôle rListeMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.tbNomTrt">
+	<summary>
+Contrôle tbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbChkDonnePers">
+	<summary>
+Contrôle lbChkDonnePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbChkDonneSens">
+	<summary>
+Contrôle lbChkDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rDonneePers">
+	<summary>
+Contrôle rDonneePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rDonneSens">
+	<summary>
+Contrôle rDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbSDD">
+	<summary>
+Contrôle lbSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rSDD">
+	<summary>
+Contrôle rSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbPersCon">
+	<summary>
+Contrôle lbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.cmbPersCon">
+	<summary>
+Contrôle cmbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbDurCon">
+	<summary>
+Contrôle lbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.cmbDurCon">
+	<summary>
+Contrôle cmbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbLegit">
+	<summary>
+Contrôle lbLegit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.cmbLegitimation">
+	<summary>
+Contrôle cmbLegitimation.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbFinalite">
+	<summary>
+Contrôle lbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.cmbFinalite">
+	<summary>
+Contrôle cmbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbDonnExMAJ">
+	<summary>
+Contrôle lbDonnExMAJ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rbOui">
+	<summary>
+Contrôle rbOui.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rbNon">
+	<summary>
+Contrôle rbNon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.tbGestionSousTrai">
+	<summary>
+Contrôle tbGestionSousTrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbCommentaire">
+	<summary>
+Contrôle lbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rtbCommentaire">
+	<summary>
+Contrôle rtbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbComContact">
+	<summary>
+Contrôle lbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rtbComContact">
+	<summary>
+Contrôle rtbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbComDPD">
+	<summary>
+Contrôle lbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.rtbComDPD">
+	<summary>
+Contrôle rtbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbDateCrea">
+	<summary>
+Contrôle lbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.tbDateCrea">
+	<summary>
+Contrôle tbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbDateModif">
+	<summary>
+Contrôle lbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.tbDateModif">
+	<summary>
+Contrôle tbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbAgEncodeur">
+	<summary>
+Contrôle lbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.tbAgEncodeur">
+	<summary>
+Contrôle tbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbAgEval">
+	<summary>
+Contrôle lbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.tbAgEval">
+	<summary>
+Contrôle tbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.lbAgVali">
+	<summary>
+Contrôle lbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrt.tbAgVali">
+	<summary>
+Contrôle tbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.ajoutTrt">
+	<summary>
+Contrôle ajoutTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.lbTypeDonnee">
+	<summary>
+Contrôle lbTypeDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.cmbTypeDonnee">
+	<summary>
+Contrôle cmbTypeDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.lbNomDonnee">
+	<summary>
+Contrôle lbNomDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.tbNomDonnee">
+	<summary>
+Contrôle tbNomDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.lbDescr">
+	<summary>
+Contrôle lbDescr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.tbDescr">
+	<summary>
+Contrôle tbDescr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.GestionGlossaire.btAjout">
+	<summary>
+Contrôle btAjout.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.tbNomTrt">
+	<summary>
+Contrôle tbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.Button1">
+	<summary>
+Contrôle Button1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.Button2">
+	<summary>
+Contrôle Button2.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbChkDonnePers">
+	<summary>
+Contrôle lbChkDonnePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbChkDonneSens">
+	<summary>
+Contrôle lbChkDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rDonneePers">
+	<summary>
+Contrôle rDonneePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rDonneSens">
+	<summary>
+Contrôle rDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbSDD">
+	<summary>
+Contrôle lbSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rSDD">
+	<summary>
+Contrôle rSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbPersCon">
+	<summary>
+Contrôle lbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.cmbPersCon">
+	<summary>
+Contrôle cmbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbDurCon">
+	<summary>
+Contrôle lbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.cmbDurCon">
+	<summary>
+Contrôle cmbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbLegit">
+	<summary>
+Contrôle lbLegit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.cmbLegitimation">
+	<summary>
+Contrôle cmbLegitimation.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbFinalite">
+	<summary>
+Contrôle lbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.cmbFinalite">
+	<summary>
+Contrôle cmbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbDonnExMAJ">
+	<summary>
+Contrôle lbDonnExMAJ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rbOui">
+	<summary>
+Contrôle rbOui.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rbNon">
+	<summary>
+Contrôle rbNon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.tbGestSousTrai">
+	<summary>
+Contrôle tbGestSousTrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbCommentaire">
+	<summary>
+Contrôle lbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rtbCommentaire">
+	<summary>
+Contrôle rtbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbComContact">
+	<summary>
+Contrôle lbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rtbComContact">
+	<summary>
+Contrôle rtbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.lbComDPD">
+	<summary>
+Contrôle lbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.rtbComDPD">
+	<summary>
+Contrôle rtbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.tbDateCrea">
+	<summary>
+Contrôle tbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.tbDateModif">
+	<summary>
+Contrôle tbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.tbAgEncodeur">
+	<summary>
+Contrôle tbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.tbAgEval">
+	<summary>
+Contrôle tbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrt.tbAgVali">
+	<summary>
+Contrôle tbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.lbInfo">
+	<summary>
+Contrôle lbInfo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.chkDpo">
+	<summary>
+Contrôle chkDpo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.LbDisplayName">
+	<summary>
+Contrôle LbDisplayName.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.tbDisplayName">
+	<summary>
+Contrôle tbDisplayName.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.lbIdConnexion">
+	<summary>
+Contrôle lbIdConnexion.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.tbIdConnexion">
+	<summary>
+Contrôle tbIdConnexion.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.lbService">
+	<summary>
+Contrôle lbService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.cmbService">
+	<summary>
+Contrôle cmbService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.lbMdp">
+	<summary>
+Contrôle lbMdp.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.tbMdp">
+	<summary>
+Contrôle tbMdp.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.btEnregistrer">
+	<summary>
+Contrôle btEnregistrer.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtAccesIllegitime.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.LienUsrRole.lbLstService">
+	<summary>
+Contrôle lbLstService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.LienUsrRole.cmbLstService">
+	<summary>
+Contrôle cmbLstService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.LienUsrRole.lbLstUsr">
+	<summary>
+Contrôle lbLstUsr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.LienUsrRole.cmbLstUsr">
+	<summary>
+Contrôle cmbLstUsr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.LienUsrRole.lbLstRole">
+	<summary>
+Contrôle lbLstRole.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.LienUsrRole.cmbLstRole">
+	<summary>
+Contrôle cmbLstRole.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.LienUsrRole.btValid">
+	<summary>
+Contrôle btValid.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="M:RGPD.LDAP.Authenticate(System.String,System.String)">
+	<summary>
+ Permet l'authentification de l'utilisateur dans le domaine via une requête LDAP.
+ </summary>
+	<param name="userName">Nom d'utilisateur de la session.</param>
+	<param name="password">Mot de passe de la session utilisateur.</param>
+	<returns>retourne True si l'authentification à réussie. False le cas échéant.</returns>
+	<remarks>Le paramètre userName peut être précédé ou non du nom de domaine : nomDomaine\nomUsr</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.btModif">
+	<summary>
+Contrôle btModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtAccesIllegitime.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ValidTrtModifNonDesire.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.btAjMesure">
+	<summary>
+Contrôle btAjMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.placeHolderMesure">
+	<summary>
+Contrôle placeHolderMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.lbAideSaisie">
+	<summary>
+Contrôle lbAideSaisie.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.MesureExistante.rListeMesure">
+	<summary>
+Contrôle rListeMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.lbInfo">
+	<summary>
+Contrôle lbInfo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.lbServ">
+	<summary>
+Contrôle lbServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.cmbServ">
+	<summary>
+Contrôle cmbServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.lbusr">
+	<summary>
+Contrôle lbusr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.cmbUsr">
+	<summary>
+Contrôle cmbUsr.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.LbDisplayName">
+	<summary>
+Contrôle LbDisplayName.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.tbDisplayName">
+	<summary>
+Contrôle tbDisplayName.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.lbIdConnexion">
+	<summary>
+Contrôle lbIdConnexion.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.tbIdConnexion">
+	<summary>
+Contrôle tbIdConnexion.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.lbMdp">
+	<summary>
+Contrôle lbMdp.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.tbMdp">
+	<summary>
+Contrôle tbMdp.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModUsr.btEnregistrer">
+	<summary>
+Contrôle btEnregistrer.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.chkTous">
+	<summary>
+Contrôle chkTous.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.btExportAll">
+	<summary>
+Contrôle btExportAll.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.Label2">
+	<summary>
+Contrôle Label2.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.cmbService">
+	<summary>
+Contrôle cmbService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.btExportService">
+	<summary>
+Contrôle btExportService.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.Label4">
+	<summary>
+Contrôle Label4.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.cmbService_2">
+	<summary>
+Contrôle cmbService_2.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.cmbTraitement">
+	<summary>
+Contrôle cmbTraitement.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.btExportUnTrt">
+	<summary>
+Contrôle btExportUnTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.Label5">
+	<summary>
+Contrôle Label5.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.cmbTrtCtc">
+	<summary>
+Contrôle cmbTrtCtc.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.btExportUnTrtSrv">
+	<summary>
+Contrôle btExportUnTrtSrv.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.Label3">
+	<summary>
+Contrôle Label3.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.dateDeb">
+	<summary>
+Contrôle dateDeb.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.dateFin">
+	<summary>
+Contrôle dateFin.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ExportPDF.btExportDate">
+	<summary>
+Contrôle btExportDate.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DBRegistreTraitement._cnxString">
+	<summary>
+ Chaine de connexioon à la base de données.
+ </summary>
+	<remarks>"Data Source=158.80.2.23,49356;Network Library=DBMSSOCN;Initial Catalog=RegistreTraitement;Integrated Security=true;" '</remarks>
+</member><member name="F:RGPD.DBRegistreTraitement._cnx">
+	<summary>
+ Connection à la base de données.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetRoleByUtilisateurId(System.Int64)">
+	<summary>
+ Permet de retrouver le rôle d'un utilisateur sur base de sont identifiant.
+ </summary>
+	<param name="idUtilisateur">Identifiant unique de l'utilisateur.</param>
+	<returns>Retourne un objet rôle pour l'utilisateur.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetDPD">
+	<summary>
+ Recherche le nom du DPD
+ </summary>
+	<returns>Retourne le nom du DPD.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetAgentValidateurService(System.Int64,System.String)">
+	<summary>
+ Méthode qui recherche le nom d'un contact DPD au sein d'un service.
+ </summary>
+	<param name="idService">Identifiant unique d'un service.</param>
+	<param name="NomRole">Nom du rôle</param>
+	<returns>Retourne le nom de la personne de contact DPD</returns>
+	<remarks>En principe le paramètre nomRole est toujours : Contact</remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetNombreTrtService(System.Int64)">
+	<summary>
+ Permet de connaître le nombre de traitement au sein d'un service.
+ </summary>
+	<param name="idService">Identifiant unique d'un service</param>
+	<returns>Retourne le nombre de traitement pour un service.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.UpdateTraitement(RGPD.Traitement@)">
+	<summary>
+ Mise à jours d'un traitement dans la base de données.
+ </summary>
+	<param name="trt">Objet de type Traitement à mettre à jours.</param>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.AjoutNouveauTraitement(RGPD.Traitement@)">
+	<summary>
+ Ajoute un nouveau traitement.
+ </summary>
+	<param name="trt">Objet de type Traitement à ajouter dans la base de données.</param>
+	<remarks>L'objet est passé en paramètre par référence car cette méthode fait appel à une procédure stockée 
+ qui retourne l'identifiant unique du nouveau traitement inséré.
+ </remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.DeleteTrt(System.Int64)">
+	<summary>
+ Supprime un traitement.
+ </summary>
+	<param name="id">Identifiant unique du traitement à supprimer.</param>
+	<remarks>En principe n'est pas utilisé.</remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetTraitementParId(System.Int64)">
+	<summary>
+ Recherche d'un traitement.
+ </summary>
+	<param name="id">Identifiant unique du traitement recherché.</param>
+	<returns>Retourne un objet de type Traitement.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetTraitement(System.String)">
+	<summary>
+ Retourne l'ensemble de tout les traitements.
+ </summary>
+	<param name="filtre">Permet d'évenutellement affiner la recherche.</param>
+	<returns>Retourne une liste de type Traitement.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetTraitementParService(System.Int64,System.String)">
+	<summary>
+ Récupère l'ensemble des traitements d'un service.
+ </summary>
+	<param name="idService">Identifiant d'un service.</param>
+	<param name="filtre">Permet d'éventuellement affiner la recherche.</param>
+	<returns>Retourne une liste de type Traitement d'un service concerné.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetService(System.Int64)">
+	<summary>
+ Méthode permettant de selectionner un service.
+ </summary>
+	<param name="Id">Identifiant unique du service recherché.</param>
+	<returns>Retourne un objet de type service.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetUtilisateur(System.String)">
+	<summary>
+ Permet de retrouver un utilisateur sur base de son nom de connexion.
+ </summary>
+	<param name="logonName">nom de connexion utilisé pour l'authentification dans l'AD.</param>
+	<returns>Retourne un objet de type Utilisateur</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.DeleteGlossaire(System.String,System.Int32)">
+	<summary>
+ Suppression d'un glossaire.
+ </summary>
+	<param name="appl">Nom du type de glossaire.</param>
+	<param name="code">Code du glossaire à supprimer.</param>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetUnGlossaire(System.String,System.Int32)">
+	<summary>
+ Selectionne un élément d'un glossaire.
+ </summary>
+	<param name="appl">Nom du type de glossaire.</param>
+	<param name="code">Code du glossaire à récupérer.</param>
+	<returns>Retourne un objet de type Glossaire.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.AjoutGlossaire(System.String,System.Int32,System.String,System.String)">
+	<summary>
+ Ajout d'un nouveau glossaire.
+ </summary>
+	<param name="appl">Nom du type de glossaire qui sera ajouté.</param>
+	<param name="code">Code de l'élément du glossaire à ajouter.</param>
+	<param name="libelle">Libellé du nouvel élément du glossaire.</param>
+	<param name="tooltip">Tooltip éventuel expliquant le libellé.</param>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.AjoutGlossaire(System.String,System.String,System.String)">
+	<summary>
+  Ajout d'un nouveau glossaire.
+ </summary>
+	<param name="appl">Nom du type de glossaire qui sera ajouté.</param>
+	<param name="libelle">Libellé du nouvel élément du glossaire.</param>
+	<param name="tooltip">Tooltip éventuel expliquant le libellé.</param>
+	<remarks>Méthode surchargée qui détecte automatique le code du nouvel élément d'un glossaire.</remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.UpdateGlossaire(RGPD.Glossaire)">
+	<summary>
+ Mise à jour d'un glossaire.
+ </summary>
+	<param name="gloss">objet de type Glossaire à mettre à jours.</param>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.GetGlossaire(System.String)">
+	<summary>
+ Selectionne une liste d'un type de glossaire.
+ </summary>
+	<param name="appl">Type de glossaire dont on souhaite récupérer tout les éléments.</param>
+	<returns>Retourne une liste de type Glossaire.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.OuvreDB">
+	<summary>
+ Ouvre la connexion vers la base de données.
+ </summary>
+	<returns>Retourne true si la connexion est ouverte, false le cas échéant.</returns>
+	<remarks></remarks>
+</member><member name="M:RGPD.DBRegistreTraitement.FermeDB">
+	<summary>
+ Ferme la connexion à la base de données.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:RGPD.DBRegistreTraitement">
+	<summary>
+ Classe gérant tout les accès base de données.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:RGPD.agent.cmbFiltre">
+	<summary>
+Contrôle cmbFiltre.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.head">
+	<summary>
+Contrôle head.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.LabelTitre">
+	<summary>
+Contrôle LabelTitre.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.lbAcceuil">
+	<summary>
+Contrôle lbAcceuil.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.lbAgent">
+	<summary>
+Contrôle lbAgent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.Deconnexion">
+	<summary>
+Contrôle Deconnexion.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.lbCreerTrt">
+	<summary>
+Contrôle lbCreerTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.ContentPlaceHolderMenu">
+	<summary>
+Contrôle ContentPlaceHolderMenu.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.common.ContentPlaceHolderBody">
+	<summary>
+Contrôle ContentPlaceHolderBody.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtMesureExistante.rListeMesure">
+	<summary>
+Contrôle rListeMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.tbNomTrt">
+	<summary>
+Contrôle tbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbChkDonnePers">
+	<summary>
+Contrôle lbChkDonnePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbChkDonneSens">
+	<summary>
+Contrôle lbChkDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rDonneePers">
+	<summary>
+Contrôle rDonneePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rDonneSens">
+	<summary>
+Contrôle rDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbSDD">
+	<summary>
+Contrôle lbSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rSDD">
+	<summary>
+Contrôle rSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbPersCon">
+	<summary>
+Contrôle lbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.cmbPersCon">
+	<summary>
+Contrôle cmbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbDurCon">
+	<summary>
+Contrôle lbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.cmbDurCon">
+	<summary>
+Contrôle cmbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbLegit">
+	<summary>
+Contrôle lbLegit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.cmbLegitimation">
+	<summary>
+Contrôle cmbLegitimation.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbFinalite">
+	<summary>
+Contrôle lbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.cmbFinalite">
+	<summary>
+Contrôle cmbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbDonnExMAJ">
+	<summary>
+Contrôle lbDonnExMAJ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rbOui">
+	<summary>
+Contrôle rbOui.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rbNon">
+	<summary>
+Contrôle rbNon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.tbGestSousTrai">
+	<summary>
+Contrôle tbGestSousTrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbCommentaire">
+	<summary>
+Contrôle lbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rtbCommentaire">
+	<summary>
+Contrôle rtbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbComContact">
+	<summary>
+Contrôle lbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rtbComContact">
+	<summary>
+Contrôle rtbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.lbComDPD">
+	<summary>
+Contrôle lbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.rtbComDPD">
+	<summary>
+Contrôle rtbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.tbDateCrea">
+	<summary>
+Contrôle tbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.tbDateModif">
+	<summary>
+Contrôle tbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.tbAgEncodeur">
+	<summary>
+Contrôle tbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.tbAgEval">
+	<summary>
+Contrôle tbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.CreerTraitement.tbAgVali">
+	<summary>
+Contrôle tbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.rMenace">
+	<summary>
+Contrôle rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.rSource">
+	<summary>
+Contrôle rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.disparitionDonnee.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifGlossaire.lbTypeDonnee">
+	<summary>
+Contrôle lbTypeDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifGlossaire.cmbTypeDonnee">
+	<summary>
+Contrôle cmbTypeDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifGlossaire.tbGloss">
+	<summary>
+Contrôle tbGloss.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifGlossaire.btModif">
+	<summary>
+Contrôle btModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.btModif">
+	<summary>
+Contrôle btModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtDisparitionDonnee.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.btModif">
+	<summary>
+Contrôle btModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtMesureExistante.rListeMesure">
+	<summary>
+Contrôle rListeMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelServ.lbInfo">
+	<summary>
+Contrôle lbInfo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelServ.lbAncLib">
+	<summary>
+Contrôle lbAncLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelServ.cmbAncLib">
+	<summary>
+Contrôle cmbAncLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.DelServ.btSupServ">
+	<summary>
+Contrôle btSupServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.rMenace">
+	<summary>
+Contrôle rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.rSource">
+	<summary>
+Contrôle rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtModifNonDesire.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.btModif">
+	<summary>
+Contrôle btModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrtModifNonDesire.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee._rMenace">
+	<summary>
+Contrôle _rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee._rSource">
+	<summary>
+Contrôle _rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee._rMesure">
+	<summary>
+Contrôle _rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ControlTrtDisparitionDonnee.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.StatGen.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.StatGen.lbNbTrtTot">
+	<summary>
+Contrôle lbNbTrtTot.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.StatGen.tbNbTrtTot">
+	<summary>
+Contrôle tbNbTrtTot.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.StatGen.tbServ">
+	<summary>
+Contrôle tbServ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.tbNomTrt">
+	<summary>
+Contrôle tbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.btModif">
+	<summary>
+Contrôle btModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbChkDonnePers">
+	<summary>
+Contrôle lbChkDonnePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbChkDonneSens">
+	<summary>
+Contrôle lbChkDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rDonneePers">
+	<summary>
+Contrôle rDonneePers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rDonneSens">
+	<summary>
+Contrôle rDonneSens.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbSDD">
+	<summary>
+Contrôle lbSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rSDD">
+	<summary>
+Contrôle rSDD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbPersCon">
+	<summary>
+Contrôle lbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.cmbPersCon">
+	<summary>
+Contrôle cmbPersCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbDurCon">
+	<summary>
+Contrôle lbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.cmbDurCon">
+	<summary>
+Contrôle cmbDurCon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbLegit">
+	<summary>
+Contrôle lbLegit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.cmbLegitimation">
+	<summary>
+Contrôle cmbLegitimation.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbFinalite">
+	<summary>
+Contrôle lbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.cmbFinalite">
+	<summary>
+Contrôle cmbFinalite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbDonnExMAJ">
+	<summary>
+Contrôle lbDonnExMAJ.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rbOui">
+	<summary>
+Contrôle rbOui.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rbNon">
+	<summary>
+Contrôle rbNon.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.Label1">
+	<summary>
+Contrôle Label1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.tbGestSousTrai">
+	<summary>
+Contrôle tbGestSousTrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbCommentaire">
+	<summary>
+Contrôle lbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rtbCommentaire">
+	<summary>
+Contrôle rtbCommentaire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbComContact">
+	<summary>
+Contrôle lbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rtbComContact">
+	<summary>
+Contrôle rtbComContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbComDPD">
+	<summary>
+Contrôle lbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.rtbComDPD">
+	<summary>
+Contrôle rtbComDPD.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbDateCrea">
+	<summary>
+Contrôle lbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.tbDateCrea">
+	<summary>
+Contrôle tbDateCrea.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbDateModif">
+	<summary>
+Contrôle lbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.tbDateModif">
+	<summary>
+Contrôle tbDateModif.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbAgEncodeur">
+	<summary>
+Contrôle lbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.tbAgEncodeur">
+	<summary>
+Contrôle tbAgEncodeur.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbAgEval">
+	<summary>
+Contrôle lbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.tbAgEval">
+	<summary>
+Contrôle tbAgEval.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.lbAgVali">
+	<summary>
+Contrôle lbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.VoirTrt.tbAgVali">
+	<summary>
+Contrôle tbAgVali.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.lbNomTrt">
+	<summary>
+Contrôle lbNomTrt.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.prcpFond">
+	<summary>
+Contrôle prcpFond.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.MsrExi">
+	<summary>
+Contrôle MsrExi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.accIllDonn">
+	<summary>
+Contrôle accIllDonn.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.modifNonDesire">
+	<summary>
+Contrôle modifNonDesire.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.dispDonnee">
+	<summary>
+Contrôle dispDonnee.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.btAnnuler">
+	<summary>
+Contrôle btAnnuler.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.btValider">
+	<summary>
+Contrôle btValider.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.FileUpload1">
+	<summary>
+Contrôle FileUpload1.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.btValidUpload">
+	<summary>
+Contrôle btValidUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.rFichier">
+	<summary>
+Contrôle rFichier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.lbMenace">
+	<summary>
+Contrôle lbMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.rMenace">
+	<summary>
+Contrôle rMenace.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.lbSource">
+	<summary>
+Contrôle lbSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.rSource">
+	<summary>
+Contrôle rSource.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.lbMesure">
+	<summary>
+Contrôle lbMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.rMesure">
+	<summary>
+Contrôle rMesure.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.lbGrav">
+	<summary>
+Contrôle lbGrav.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.cmbGravite">
+	<summary>
+Contrôle cmbGravite.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.lbVrai">
+	<summary>
+Contrôle lbVrai.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.ModifierTrtAccesIllegitime.cmbVraisemblance">
+	<summary>
+Contrôle cmbVraisemblance.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+</members>
+</doc>

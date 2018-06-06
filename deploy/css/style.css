@@ -1,0 +1,438 @@
+﻿/*Mise en forme principale*/
+html{
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+}
+
+/*Style création traitement*/
+
+@media (max-width: 800px) {
+.table td:nth-child(4),
+.table th:nth-child(4) { display: none; }
+}
+
+@media (max-width: 800px) {
+nav li:nth-child(4),
+nav li:nth-child(4) { display: none; }
+}
+
+body
+{
+  min-height:100%;
+  font-family: 'Arvin-Regular','Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+}
+
+#content {
+  position: absolute;
+    height: 85%;
+    margin-left: 15%;
+    width: 82%;
+    padding-left: 5px;
+    overflow: auto;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+     -moz-appearance: none !important;
+}
+
+
+footer {
+    display: block;
+    height: 3%;
+    position: absolute;
+    bottom: 0px;
+    left:0;
+    right:0;
+    text-align: center;
+    
+}
+
+/*Mise en forme de l'état d'un traitement*/
+.MainBouton:hover
+{
+    cursor:pointer;
+}
+.linkButton_button
+{
+     background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     /*border-bottom:1px solid #444;*/
+     cursor:pointer;
+}
+.isValid:hover
+{
+    cursor:help;
+}
+.isValid {
+    width: 15px;
+    height: 15px;
+    border-radius:20px;
+    background-color: green;    
+    margin-left:30%;
+}
+
+.modif:hover
+{
+    cursor:help;
+}
+.modif {
+    width: 15px;
+    height: 15px;
+    border-radius:20px;
+    background-color: red;
+    margin-left:30%;
+}
+
+.toBeControledContact:hover
+{
+    cursor:help;
+}
+.toBeControledContact {
+    width: 15px;
+    height: 15px;
+    border-radius:20px;
+    background-color: orange;
+    margin-left:30%;
+}
+
+.toBeControledDPD:hover
+{
+    cursor:help;
+}
+.toBeControledDPD {
+    width: 15px;
+    height: 15px;
+    border-radius:20px;
+    background-color: yellow;
+    margin-left:30%;
+}
+
+/*Mise en forme divers*/
+.arrondi
+{
+    padding:5px;
+}
+ .arrondi {
+    border-radius: 10px;    
+}
+.bouton
+{
+    cursor: pointer;
+    width: 210px;
+	height: 35px;
+    background: #fff;
+	border: 1px solid #20CA79;
+	cursor: pointer;
+	border-radius: 10px;
+	color: #20CA79;
+    font-weight:bold;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	/*padding: 6px;*/
+	margin-top: 10px;
+}
+
+.bouton:hover{
+    background: #20CA79;
+    color:white;
+}
+
+.boutonSup{
+    border-radius: 10px;
+    color: red;
+}
+.boutonSup:hover{
+    text-decoration:underline;
+    border-radius: 10px;
+}
+
+.pieceVoir{
+
+}
+
+.pieceVoir:hover{
+    text-decoration:underline;
+    color: black;
+}
+
+nav {
+    position: absolute;
+    float: left;
+    display: inline;
+    height: 90%;
+    width: 15%;
+    overflow: auto;
+    margin-top: 2%;
+}
+
+nav ul
+{
+    padding:0;
+    margin-top:0;
+}
+
+nav li a {
+     display:block;
+     width:100%;
+     height:100%;
+     color: #20CA79;
+     padding: 10px 10px 10px 2px;
+    font-weight:bold;
+}
+
+nav li
+{
+    list-style-type:none;
+    border-radius: 10px;
+    border: 1px solid #20CA79;
+    margin-bottom: 5px;
+}
+nav li:hover{
+    background-color: #20CA79;
+    color:white;
+}
+
+nav li a:hover{
+    color:white;
+}
+
+li a, td a
+{
+    text-decoration:none;
+    padding:1px;
+    color:red;
+}
+ul li {
+     list-style-type: none;
+}
+.mnuTrt {
+   padding-bottom:10px;
+}
+
+li a
+{
+    color:black;
+}
+
+#lbAjoutGloss, #lbModifierGloss, #lbStatGen{
+    display:block;
+    width:100%;
+    height:100%;
+    color: #20CA79;
+    padding: 5px 5px 5px 2px;
+    font-weight:bold;
+}
+#lbAjoutGloss:hover, #lbModifierGloss:hover, #lbStatGen:hover{
+    display:block;
+    width:100%;
+    height:100%;
+    color: white;
+    padding: 5px 5px 5px 2px;
+    font-weight:bold;
+}
+
+#sousMenu{
+    list-style-type:none;
+    border-radius: 10px;
+    border: 1px solid #20CA79;
+    margin-bottom: 3px;
+}
+#sousMenuConteneur{
+    border:none;
+}
+#sousMenuConteneur:hover{
+    background-color:white;
+}
+
+
+
+/*Menu accordéon*/
+.accordion {
+    cursor: pointer;
+    outline: none;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover 
+{
+    /*background-color: #B4B4B4;*/
+}
+
+.panel {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+}
+
+.table{
+    text-align: left;
+	overflow: hidden;
+	width: 100%;
+    display: table;
+    padding: 0 0 8em 0;
+}
+.table th {
+/*Première ligne de titres*/
+	background-color: black;
+    color:white;
+    padding-bottom: 1%;
+	padding-top: 1%;
+    padding-left:1%; 
+    font-size: 1em;
+    text-align: left;
+}
+.table td {
+    /*Ligne des traitements*/
+	font-weight: normal;
+	font-size: 1em;
+    padding-bottom: 1%;
+	padding-top: 1%;
+    padding-left:1%;  
+}
+/*.table td:hover {
+    /*Survol sur chaque case*/
+    /*background-color: #B1EBCF;*/
+/*}*/
+.table td a{
+/* Chaque case des traitements*/
+    display:block;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: black;
+}
+/* Background-color of the odd rows */
+.table tr:nth-child(odd) {
+    /* Ligne des traitements*/
+	background-color: white;     
+}
+
+/* Background-color of the even rows */
+.table tr:nth-child(even) {
+    /* Ligne des traitements*/
+	background-color: #defcdc;      
+}
+.table tr:hover {
+    /*Survol de la ligne des traitements*/
+    background-color: #8debc1;
+}
+#divTrier{
+    margin: 0.5% 0.5% 0.5% 0.5%;
+}
+
+#conteneurTr{
+    width: 100%;
+    margin: auto;
+}
+#tableTr{
+    width: 75%;
+    position: relative;
+    float: left;
+}
+#legendeTr{
+    width: 25%;
+    position: relative;
+    float: left;
+}
+
+
+#tableUser, #formulaire, #modifGloss, #exportPDF{
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+#tableUser td{
+    padding-bottom: 5px;
+}
+
+#exportPDF tr{
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    
+}
+
+#modifGlossDrop{
+    padding-bottom: 15px;
+}
+
+#menuTD{
+    width: 20%;
+}
+
+#bodyTD{
+    width: 60%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+#infoTD{
+    width: 20%;
+}
+
+.lbinfoTrt{
+    border:none;
+    width:90%;
+    font-weight:bold;
+    color: #091C69;
+}
+
+.infoTrt{
+    border:none;
+    width:90%;
+    font-weight:bold;
+    padding-bottom: 10px;
+    color: #091C69;
+}
+
+textarea{
+    resize: none;
+    overflow:auto;
+}
+
+.boutonPDF
+{
+    cursor: pointer;
+    width: 210px;
+	height: 30px;
+    background: #fff;
+	border: 1px solid #20CA79;
+	cursor: pointer;
+	border-radius: 10px;
+	color: #20CA79;
+    font-weight:bold;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	/*padding: 6px;*/
+	/*margin-top: 10px;*/
+    padding: 5px;
+}
+
+.boutonPDF:hover{
+    background: #20CA79;
+    color:white;
+}
+
+.labeltitre{
+    font-weight:bold;
+}
+
+#conteneurPiece{
+    width: 100%;
+    margin: auto;
+}
+#gauchePiece{
+    width: 80%;
+    position: relative;
+    float: left;
+}
+#droitePiece{
+    width: 15%;
+    position: relative;
+    float: left;
+    /*padding-right: 2%;*/
+}

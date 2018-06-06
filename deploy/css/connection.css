@@ -1,0 +1,173 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Exo:100,200,400);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:700,400,300);
+
+.centrerLabelNom
+ {
+     position: absolute;
+	top: calc(25% - 35px);
+	left: calc(93% - 255px);
+	z-index: 2;
+    font-family: 'Exo', sans-serif;
+    font-size: 15px;
+ }
+.centrerLabelMdp
+ {
+     position: absolute;
+	top: calc(62% - 35px);
+	left: calc(93% - 255px);
+	z-index: 2;
+    font-family: 'Exo', sans-serif;
+    font-size: 15px;
+ }
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.body{
+	position: absolute;
+	/*top: -20px;
+	left: -20px;
+	right: -40px;
+	bottom: -40px;*/
+	width: 100%;
+	height: 100%;
+	background-image: url('../img/wp_connection.jpg');
+	background-size: cover;
+	-webkit-filter: blur(5px);
+	z-index: 0;
+}
+
+.grad{
+	position: absolute;
+	/*top: -20px;
+	left: -20px;
+	right: -40px;
+	bottom: -40px;*/
+	width: 100%;
+	height: 100%;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65))); /* Chrome,Safari4+ */
+	z-index: 1;
+	opacity: 0.7;
+}
+
+.header{
+	position: absolute;
+	top: calc(50% - 35px);
+	left: calc(30% - 255px);
+	z-index: 2;   
+}
+
+.header div{
+	float: left;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.header div span{
+	float: left;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.login{
+	position: absolute;
+	top: calc(50% - 75px);
+	left: calc(50% - 50px);
+	height: 150px;
+	width: 350px;
+	padding: 10px;
+	z-index: 2;
+}
+
+.usrName{
+	width: 250px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+    text-align: center;
+}
+
+.usrMdp{
+	width: 250px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	margin-top: 10px;
+    text-align: center;
+}
+.usrName:focus{
+	outline: none;
+	border: 1px solid rgba(255,255,255,0.9);
+}
+
+.usrMdp:focus{
+	outline: none;
+	border: 1px solid rgba(255,255,255,0.9);
+}
+.bouton{
+	width: 260px;
+	height: 35px;
+	background: #fff;
+	border: 1px solid #fff;
+	cursor: pointer;
+	border-radius: 2px;
+	color: #a18d6c;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 6px;
+	margin-top: 10px;
+}
+
+.bouton:hover{
+	opacity: 0.8;
+}
+
+.bouton:active{
+	opacity: 0.6;
+}
+.bouton:focus{
+	outline: none;
+}
+
+::-webkit-input-placeholder{
+   color: rgba(255,255,255,0.6);
+}
+
+::-moz-input-placeholder{
+   color: rgba(255,255,255,0.6);
+}
+
+.coord{
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    vertical-align: bottom;
+    z-index: 2;
+    color:#fff;/*color: black;*/
+	font-family: 'Exo', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+}
