@@ -30,8 +30,27 @@
     <table class="AjUsr">
         <tr>
             <td>
-                <asp:CheckBox ID="chkDpo" runat="server" Text="Est DPO" /></td>
+                <asp:Label ID="lbRole" runat="server" Font-Bold="true" Font-Underline="true" Text="Rôle"></asp:Label>
+            </td>
         </tr>
+         <tr>
+            <td>
+                <asp:CheckBox ID="chkDpo" runat="server" Text="DPO" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <asp:CheckBox ID="chkContact" runat="server" Text="Contact" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <asp:CheckBox ID="chkAgent" runat="server" Text="Agent"/>
+            </td>
+        </tr>
+    </table>
+
+    <table class="AjUsr">     
         <tr>
             <td>
                 <asp:Label ID="LbDisplayName" runat="server" Font-Bold="true" Font-Underline="true" Text="Nom affiché :"></asp:Label>&nbsp;

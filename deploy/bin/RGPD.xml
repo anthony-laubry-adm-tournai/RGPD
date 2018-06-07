@@ -2642,9 +2642,33 @@ Contrôle lbInfo.
 Champ généré automatiquement.
 Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
 </remarks>
+</member><member name="F:RGPD.AjUsr.lbRole">
+	<summary>
+Contrôle lbRole.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
 </member><member name="F:RGPD.AjUsr.chkDpo">
 	<summary>
 Contrôle chkDpo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.chkContact">
+	<summary>
+Contrôle chkContact.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:RGPD.AjUsr.chkAgent">
+	<summary>
+Contrôle chkAgent.
 </summary>
 	<remarks>
 Champ généré automatiquement.
