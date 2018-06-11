@@ -35,5 +35,5 @@ Mise en place :
       mot de passe : Ww9,?hF7
       
       
-      
-EDIT : L'application est sujette à des mises à jours de nouveau contenu dans les prochains jours voir semaines
+ 
+ L'application est sujette à des mises à jours de nouveau contenu dans les prochains jours voir semaines.
