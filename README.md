@@ -1,5 +1,5 @@
 # RGPD
-Registre des traitements
+Registre des traitements (version dépréciée)
 
 Mise en place :
 
